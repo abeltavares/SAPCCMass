@@ -14,11 +14,11 @@ SAPCCMass is a tool for automating mass maintenance of cost centers in SAP using
 
 ## Files
 This repository contains the following files:
-- `KS01.bas`: Visual Basic script for mass maintenance of cost centers using tcode KS01 in SAP.
-- `KS02.bas`: Visual Basic script for mass maintenance of cost centers using tcode KS02 in SAP.
-- `config.bas`: Visual Basic script for configuring the Excel interface settings.
-- `run.bas`: Visual Basic script for calling the appropriate subroutine based on the transaction code selected.
-- `SAPCCMass.xlsm`: Excel file containing the functional script for mass maintenance of cost centers in SAP.
+- `KS01.bas` : Visual Basic script for mass maintenance of cost centers using tcode KS01 in SAP.
+- `KS02.bas` : Visual Basic script for mass maintenance of cost centers using tcode KS02 in SAP.
+- `config.bas` : Visual Basic script for configuring the Excel interface settings.
+- `run.bas` : Visual Basic script for calling the appropriate subroutine based on the transaction code selected.
+- `SAPCCMass.xlsm` : Excel file containing the functional script for mass maintenance of cost centers in SAP.
 
 ## Mandatory Fields
 ### KS01
