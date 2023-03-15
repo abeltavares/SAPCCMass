@@ -3,7 +3,7 @@
 
 # SAPCCMass
 
-![SAPCCMass](SAPCCMass.png)
+![SAPCCMass](assets/SAPCCMass.PNG)
 
 SAPCCMass is a tool for automating mass maintenance of cost centers in SAP using transaction codes KS01 and KS02. This tool allows you to create or modify multiple cost centers at once by reading the data from an Excel worksheet and sending the updates to SAP.
 
